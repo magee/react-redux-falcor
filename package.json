@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-falcor",
+  "version": "0.0.1",
+  "description": "React/Redux/Flux proof-of-concept application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magee Mooney",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "falcor-express": "^0.1.2",
+    "falcor-router": "^0.2.8",
+    "react": "^0.13.3",
+    "react-redux": "^0.9.0",
+    "redux": "^1.0.1",
+    "redux-devtools": "^1.0.2"
+  }
+}
