@@ -7,5 +7,5 @@ Tying together promising technologies to build something small.
 * [Falcor](http://netflix.github.io/falcor/):  Representing all your data as one in-memory JSON style model
 
 ***
-[![Code Climate](https://codeclimate.com/github/magee/react-redux-falcor/badges/gpa.svg)](https://codeclimate.com/github/magee/react-redux-falcor)   [![Test Coverage](https://codeclimate.com/github/magee/react-redux-falcor/badges/coverage.svg)](https://codeclimate.com/github/magee/react-redux-falcor/coverage)   [![Build Status](https://travis-ci.org/magee/react-redux-falcor.svg)](https://travis-ci.org/magee/react-redux-falcor)
+[![Code Climate](https://codeclimate.com/github/magee/react-redux-falcor/badges/gpa.svg)](https://codeclimate.com/github/magee/react-redux-falcor)   [![Test Coverage](https://codeclimate.com/github/magee/react-redux-falcor/badges/coverage.svg)](https://codeclimate.com/github/magee/react-redux-falcor/coverage)   [![Build Status](https://travis-ci.org/magee/react-redux-falcor.svg?branch=master)](https://travis-ci.org/magee/react-redux-falcor)
 
